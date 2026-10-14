@@ -1,0 +1,35 @@
+user = {
+    settings = {
+        checkpointAudio = true,
+        disableTraffic = true,
+        trafficSpawnsStoppedLive = false,
+        backToStartOnFinish = true,
+        trackLeadMapPin = true,
+        cashReward = true,
+        useSpeedbreaker = true,
+        leadMarkerCP = 2,
+        leadMarkerDistance = 40,
+        useLastSatVeh = false,
+        lapCountMult = 1.0,
+        cpSoundFx = 1,
+        showTooltips = true,
+    },
+    defaultSettings = {
+        checkpointAudio = true,
+        disableTraffic = true,
+        trafficSpawnsStoppedLive = false,
+        backToStartOnFinish = true,
+        trackLeadMapPin = true,
+        cashReward = true,
+        useSpeedbreaker = true,
+        leadMarkerCP = 2,
+        leadMarkerDistance = 40,
+        useLastSatVeh = false,
+        lapCountMult = 1.0,
+        cpSoundFx = 1,
+        showTooltips = true,
+    },
+    recentTimes = {},
+}
+
+return user
